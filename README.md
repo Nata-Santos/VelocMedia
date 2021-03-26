@@ -4,8 +4,8 @@ Calcule a velocidade, a partir da distância (Δd, em metros) e do tempo (Δt, e
 v = Δd / Δt
 
 ```
-Altura (m)..: 2
-Peso (kg)...: 80
+Distância percorrida (m): 100
+Tempo gasto (s): 15
 
-IMC: 20,0 kg/m²
+Velocidade média: 6 m/s
 ```
